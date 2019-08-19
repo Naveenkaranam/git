@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1566220494,,"wq!"
+|2,0,1566221152,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,76 @@
 # Registers:
 
 # File marks:
-'0  1  18  ~/replace.java
-|4,48,1,18,1566220494,"~/replace.java"
-'1  1  13  ~/home.java
-|4,49,1,13,1566220469,"~/home.java"
-'2  2  21  /home/ubuntu/home.java
-|4,50,2,21,1566208518,"/home/ubuntu/home.java"
-'3  2  29  /home/ubuntu/replace.java
-|4,51,2,29,1566208342,"/home/ubuntu/replace.java"
+'0  1  15  ~/conditions.java
+|4,48,1,15,1566221152,"~/conditions.java"
+'1  1  10  ~/languages.java
+|4,49,1,10,1566221120,"~/languages.java"
+'2  1  18  ~/replace.java
+|4,50,1,18,1566220494,"~/replace.java"
+'3  1  13  ~/home.java
+|4,51,1,13,1566220469,"~/home.java"
 '4  2  21  /home/ubuntu/home.java
-|4,52,2,21,1566208307,"/home/ubuntu/home.java"
+|4,52,2,21,1566208518,"/home/ubuntu/home.java"
+'5  2  29  /home/ubuntu/replace.java
+|4,53,2,29,1566208342,"/home/ubuntu/replace.java"
+'6  2  21  /home/ubuntu/home.java
+|4,54,2,21,1566208307,"/home/ubuntu/home.java"
 
 # Jumplist (newest first):
+-'  1  15  ~/conditions.java
+|4,39,1,15,1566221152,"~/conditions.java"
+-'  1  10  ~/languages.java
+|4,39,1,10,1566221120,"~/languages.java"
+-'  1  10  ~/languages.java
+|4,39,1,10,1566221120,"~/languages.java"
+-'  1  18  ~/replace.java
+|4,39,1,18,1566220494,"~/replace.java"
+-'  1  18  ~/replace.java
+|4,39,1,18,1566220494,"~/replace.java"
+-'  1  18  ~/replace.java
+|4,39,1,18,1566220494,"~/replace.java"
 -'  1  18  ~/replace.java
 |4,39,1,18,1566220494,"~/replace.java"
 -'  1  13  ~/home.java
 |4,39,1,13,1566220469,"~/home.java"
 -'  1  13  ~/home.java
 |4,39,1,13,1566220469,"~/home.java"
+-'  1  13  ~/home.java
+|4,39,1,13,1566220469,"~/home.java"
+-'  1  13  ~/home.java
+|4,39,1,13,1566220469,"~/home.java"
+-'  1  13  ~/home.java
+|4,39,1,13,1566220469,"~/home.java"
+-'  1  13  ~/home.java
+|4,39,1,13,1566220469,"~/home.java"
+-'  1  13  ~/home.java
+|4,39,1,13,1566220469,"~/home.java"
+-'  1  13  ~/home.java
+|4,39,1,13,1566220469,"~/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
+-'  2  21  /home/ubuntu/home.java
+|4,39,2,21,1566208518,"/home/ubuntu/home.java"
 -'  2  21  /home/ubuntu/home.java
 |4,39,2,21,1566208518,"/home/ubuntu/home.java"
 -'  2  21  /home/ubuntu/home.java
@@ -67,6 +119,102 @@
 |4,39,2,29,1566208342,"/home/ubuntu/replace.java"
 -'  2  29  /home/ubuntu/replace.java
 |4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  2  29  /home/ubuntu/replace.java
+|4,39,2,29,1566208342,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
+-'  1  0  /home/ubuntu/replace.java
+|4,39,1,0,1566208316,"/home/ubuntu/replace.java"
 -'  1  0  /home/ubuntu/replace.java
 |4,39,1,0,1566208316,"/home/ubuntu/replace.java"
 -'  1  0  /home/ubuntu/replace.java
@@ -93,38 +241,22 @@
 |4,39,2,21,1566208307,"/home/ubuntu/home.java"
 -'  2  21  /home/ubuntu/home.java
 |4,39,2,21,1566208307,"/home/ubuntu/home.java"
--'  2  21  /home/ubuntu/home.java
-|4,39,2,21,1566208307,"/home/ubuntu/home.java"
--'  2  21  /home/ubuntu/home.java
-|4,39,2,21,1566208307,"/home/ubuntu/home.java"
--'  2  21  /home/ubuntu/home.java
-|4,39,2,21,1566208307,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
--'  1  0  /home/ubuntu/home.java
-|4,39,1,0,1566208268,"/home/ubuntu/home.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/conditions.java
+	*	1566221149	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
+
+> ~/languages.java
+	*	1566221116	0
+	"	1	10
+	^	1	11
+	.	1	10
+	+	1	10
 
 > ~/replace.java
 	*	1566220491	0
